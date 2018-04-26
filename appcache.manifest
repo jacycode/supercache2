@@ -1,0 +1,10 @@
+CACHE MANIFEST
+
+# v1 - 2018-04-26
+
+http://localhost:6607/src/testappcache.js
+http://localhost:6607/src/testappcache.css
+http://localhost:6607/img/awm.jpg
+
+NETWORK:
+*
